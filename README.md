@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=ZhiYeG)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiYeG)
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 ![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=ZhiYeG&show_icons=true&count_private=true&line_height=40)
 
 ![Profile views](https://gpvc.arturio.dev/ZhiYeG)
+-->
