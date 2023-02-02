@@ -9,7 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/zhiyeg)
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://www.linkedin.com/in/zhiye-guo-231141203/)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/zhiye-guo-231141203/)
 🕮[Google Scholar](https://scholar.google.com/citations?hl=en&user=4bGS6lsAAAAJ) ✉️[Email](XmuZhiyeGuo@gmail.com)
 
 ![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=ZhiYeG&show_icons=true&count_private=true&line_height=40)
