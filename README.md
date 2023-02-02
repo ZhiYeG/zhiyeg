@@ -6,9 +6,11 @@
 - 💬 Ask me about machine learning, deep learning, bioinformatics, computer vision, robitics, etc
 - 📫 How to reach me: LinkedIn, Gmail, Wechat
 - ⚡ Fun fact: My talent in 3D modeling (Solidwork) is higher than my programming. 
-- 
+
 ![Profile views](https://gpvc.arturio.dev/zhiyeg)
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white
 <!--
 [![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=ZhiYeG)](https://github.com/ryo-ma/github-profile-trophy)
 
