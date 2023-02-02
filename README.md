@@ -9,13 +9,25 @@
 
 ![Profile views](https://gpvc.arturio.dev/zhiyeg)
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/zhiye-guo-231141203/)"
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?hl=en&user=4bGS6lsAAAAJ"
+    
+🕮[Google Scholar](https://scholar.google.com/citations?hl=en&user=4bGS6lsAAAAJ) ✉️[Email](XmuZhiyeGuo@gmail.com)
+
+![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=ZhiYeG&show_icons=true&count_private=true&line_height=40)
+
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white
 <!--
 [![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=ZhiYeG)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiYeG)
-![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=ZhiYeG&show_icons=true&count_private=true&line_height=40)
 -->
 
 <!--
