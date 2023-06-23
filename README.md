@@ -2,12 +2,11 @@
 
 - 🔭 I’m currently working on applications of deep learning for bioinformatics.  
 - 🌱 I’m currently learning mathematical principles behind machine learning and deep learning. 
-- 👯 I’m looking for a full time jobs of machine learning / deep learning application scientist / engineer
-- 💬 Ask me about machine learning, deep learning, bioinformatics, computer vision, robitics, etc
-- 📫 How to reach me: LinkedIn, Gmail, Wechat
-- ⚡ Fun fact: My talent in 3D modeling (Solidwork) is higher than my programming. 
+**- 👯 I’m looking for a full time jobs of machine learning / deep learning application scientist/engineer
+- 💬 Ask me about machine learning, deep learning, bioinformatics, computer vision, robotics, etc
+- 📫 How to reach me: LinkedIn, Gmail, WeChat
+- ⚡ Fun fact: My talent in 3D modeling (Solidworks) is higher than my programming. 
 
-![Profile views](https://gpvc.arturio.dev/zhiyeg)
 
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhiyeg.github.io/)  [![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=4bGS6lsAAAAJ)  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiye-guo-231141203/)  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](XmuZhiyeGuo@gmail.com)
 
