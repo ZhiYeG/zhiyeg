@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on applications of deep learning for bioinformatics.  
 - 🌱 I’m currently learning mathematical principles behind machine learning and deep learning. 
-**- 👯 I’m looking for a full time jobs of machine learning / deep learning application scientist/engineer
 - 💬 Ask me about machine learning, deep learning, bioinformatics, computer vision, robotics, etc
 - 📫 How to reach me: LinkedIn, Gmail, WeChat
 - ⚡ Fun fact: My talent in 3D modeling (Solidworks) is higher than my programming. 
@@ -25,7 +24,7 @@ https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoC
 **ZhiYeG/zhiyeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👯 I’m looking for a full time jobs of machine learning / deep learning application scientist/engineer
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
